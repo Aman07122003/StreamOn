@@ -1,0 +1,24 @@
+{
+  "name": "youtube_fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental.json-modules src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman07122003/Youtube_FullStack.git"
+  },
+  "keywords": ["javascript", "backend"],
+  "author": "Aman Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman07122003/Youtube_FullStack/issues"
+  },
+  "homepage": "https://github.com/Aman07122003/Youtube_FullStack#readme",
+  "description": "Youtube Clone Project",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.2"
+  }
+}
