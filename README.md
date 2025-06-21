@@ -1,6 +1,6 @@
 <p align="center" href="https://www.youtube.com/@shehza-d"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="130" width="120" /></p>
 
-<h1 align="center">Youtube clone</h1>
+<h1 align="center">StreamOn</h1>
 
 ## `A fully integrated YouTube clone with end-to-end full-stack capabilities.`
 
